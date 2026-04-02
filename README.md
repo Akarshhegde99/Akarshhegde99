@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Spring+Boot+Backend+Developer;Full+Stack+Developer;AI+Enthusiast;Building+Scalable+Systems" />
 </p>
 
----
+
 
 🎓 BMSIT'26 | 💻 Full Stack Developer | ☕ Spring Boot Developer  
 🚀 Building scalable backend systems & AI-powered applications
