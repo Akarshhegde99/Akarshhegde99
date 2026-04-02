@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Spring+Boot+Developer;Full+Stack+Engineer;AI+Enthusiast;Building+Real+World+Projects" />
+  <img src="https://raw.githubusercontent.com/Akarshhegde99/Akarshhegde99/main/banner.png" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akarshhegde99/Akarshhegde99/main/banner.png" alt="banner" />
-</p>
-
+<h1 align="center">Hi 👋, I'm Akarsh Hegde</h1>
+<h3 align="center">Spring Boot Backend Developer | AI Enthusiast</h3>
 # 👋 Hi, I'm Akarsh Hegde
 
 🎓 BMSIT'26 | 💻 Full Stack Developer | ☕ Spring Boot Backend Developer
