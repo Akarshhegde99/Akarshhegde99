@@ -1,12 +1,22 @@
+<!-- 🔥 Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Spring+Boot+Backend+Developer;Full+Stack+Developer;AI+Enthusiast;Building+Scalable+Systems" />
+</p>
+
+<!-- 🎨 Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Akarshhegde99/Akarshhegde99/main/banner.png" width="100%" />
 </p>
 
+<!-- 👨‍💻 Name -->
 <h1 align="center">Hi 👋, I'm Akarsh Hegde</h1>
-<h3 align="center">Spring Boot Backend Developer | AI Enthusiast</h3>
-# 👋 Hi, I'm Akarsh Hegde
 
-🎓 BMSIT'26 | 💻 Full Stack Developer | ☕ Spring Boot Backend Developer
+<!-- 🚀 Role -->
+<h3 align="center">Spring Boot Backend Developer | AI Enthusiast</h3>
+
+---
+
+🎓 BMSIT'26 | 💻 Full Stack Developer | ☕ Spring Boot Developer  
 🚀 Building scalable backend systems & AI-powered applications
 
 ---
