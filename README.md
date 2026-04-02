@@ -19,7 +19,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/akarsh-hegde-731934253)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge\&logo=leetcode)](https://leetcode.com/Akarsh_Hegde_/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-green?style=for-the-badge\&logo=hackerrank)](https://hackerrank.com/akarshhegde1001)
 
 ---
 
@@ -37,10 +36,10 @@
 
 ### 👨‍💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge\&logo=c)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
 
 ---
 
