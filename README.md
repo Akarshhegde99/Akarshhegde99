@@ -122,7 +122,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akarshhegde99&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akarshhegde99&layout=compact&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akarshhegde99&theme=radical" height="150"/>
 </p>
 ---
