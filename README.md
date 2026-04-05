@@ -60,7 +60,7 @@
 
 ---
 
-### 🤖 AI / Data Science
+### 🤖 AI / Machine Learning
 
 ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge\&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge\&logo=pandas)
