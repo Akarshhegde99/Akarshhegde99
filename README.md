@@ -80,14 +80,12 @@
 
 ## 🚀 Featured Projects
 
-### 🔐 SmartElec – Face Recognition Voting System
+### 📊 Sorting Visualizer
 
-* Real-time face recognition using OpenCV
-* Secure digital voting system
-* Built with Python + ML
+* Visual representation of sorting algorithms
+* Built using JavaScript
 
 ---
-
 ### 🤖 MultiAgent AI System
 
 * CSV data analysis with AI insights
@@ -95,22 +93,6 @@
 * Automated data processing
 
 ---
-
-### 💳 Fraud Transaction Detection
-
-* ML-based fraud detection system
-* Interactive UI for analysis
-* Financial data insights
-
----
-
-### 📊 Sorting Visualizer
-
-* Visual representation of sorting algorithms
-* Built using JavaScript
-
----
-
 ### 🌍 Vyuma – AI Tourism Planner
 
 * Full-stack booking platform
