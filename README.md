@@ -80,24 +80,25 @@
 
 ## 🚀 Featured Projects
 
+### 🏦 TransactSphere
+
+* Secure microservices banking system architecture.
+* Isolated database per microservice pattern.
+* Scalable event-driven service communication.
+  
+---
 ### 📊 Sorting Visualizer
 
 * Visual representation of sorting algorithms
+* Detailed summary on each Algorithm with custom input
 * Built using JavaScript
 
 ---
-### 🤖 MultiAgent AI System
+### 🤖 DigiStadium
 
-* CSV data analysis with AI insights
-* Streamlit dashboard + AI integration
-* Automated data processing
-
----
-### 🌍 Vyuma – AI Tourism Planner
-
-* Full-stack booking platform
-* AI-powered recommendations
-* MEEN stack architecture
+* Java full-stack booking Application
+* Seamless Cricket Screening booking for Harveys Cafe
+* With User and Admin Portal
 
 ---
 
