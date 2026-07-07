@@ -120,3 +120,9 @@
 * ☕ Mastering Spring Boot (REST APIs, Security, Microservices)
 * 🧩 Building production-ready backend systems
 * 🔗 Integrating AI into scalable applications
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akarshhegde99&color=00F7FF&style=flat-square&label=PROFILE+VIEWS&base=62" alt="Profile Views" />
+</p>
