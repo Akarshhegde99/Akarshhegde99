@@ -19,6 +19,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/akarsh-hegde-731934253)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge\&logo=leetcode)](https://leetcode.com/Akarsh_Hegde_/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge\&logo=netlify)](https://akarshhegde.netlify.app/)
+
 
 ---
 
@@ -87,18 +89,18 @@
 * Scalable event-driven service communication.
   
 ---
-### 📊 Sorting Visualizer
-
-* Visual representation of sorting algorithms
-* Detailed summary on each Algorithm with custom input
-* Built using JavaScript
-
----
 ### 🤖 DigiStadium
 
 * Java full-stack booking Application
 * Seamless Cricket Screening booking for Harveys Cafe
 * With User and Admin Portal
+  
+---
+### 📊 Sorting Visualizer
+
+* Visual representation of sorting algorithms
+* Detailed summary on each Algorithm with custom input
+* Built using JavaScript
 
 ---
 
