@@ -10,7 +10,7 @@
 
 
 
-🎓 BMSIT'26 | 💻 Full Stack Developer | ☕ Spring Boot Developer  
+🎓 BMSIT'26 | IC1 @ Oracle | 💻 Full Stack Developer | ☕ Spring Boot Developer  
 🚀 Building scalable backend systems & AI-powered applications
 
 ---
