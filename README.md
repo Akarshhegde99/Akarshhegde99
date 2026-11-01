@@ -5,7 +5,7 @@
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Spring+Boot+Backend+Developer;Full+Stack+Developer;AI+Enthusiast;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Spring+Boot+Backend+Developer;IC1+@+Oracle;Enabling+AI+Solutions;Building+Scalable+Systems" />
 </p>
 
 
