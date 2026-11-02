@@ -55,7 +55,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏦 [OPay – NetBanking World](https://github.com/Akarshhegde99)
+### 🏦 [OPay – NetBanking World]([https://github.com/Akarshhegde99](https://github.com/VarshitNg15/OPay-NetBankingWorld))
 > **Tech Stack:** `Java` `Spring Boot` `Microservices` `Oracle DB` `Apache Kafka` `Redis` `Oracle JET (OJET)` `JWT` `Prometheus` `Grafana`
 - Developed a comprehensive full-stack digital banking platform using **Spring Boot microservices** and **Oracle JET** with JWT-based authentication and secure API gateway routing.
 - Implemented independent services for authentication, user management, account operations, transaction processing, and automated notifications using **Oracle Database** and **Kafka**.
@@ -63,7 +63,7 @@
 
 ---
 
-### 🏏 [DigiStadium](https://github.com/Akarshhegde99)
+### 🏏 [DigiStadium]([https://github.com/Akarshhegde99](https://github.com/Akarshhegde99/Harveys_Cafe))
 > **Tech Stack:** `React` `Spring Boot` `MySQL` `REST APIs` `Tailwind CSS`
 - Developed **Harvey’s Cafe IPL Table Booking System** with dedicated, role-based User and Admin portals.
 - Integrated secure booking, **QR-based ticket generation**, and real-time reservation management.
@@ -71,7 +71,7 @@
 
 ---
 
-### 📊 [SortInsight: Visualizing Algorithms](https://github.com/Akarshhegde99)
+### 📊 [SortInsight: Visualizing Algorithms]([https://github.com/Akarshhegde99](https://github.com/Akarshhegde99/Sorting-Insight))
 > **Tech Stack:** `JavaScript` `Algorithms` `Bootstrap` `HTML5` `CSS3`
 - Built an interactive web application to visualize popular sorting algorithms in real time with step-by-step animations.
 - Implemented **Merge, Quick, Bubble, Selection, and Insertion Sort** with detailed algorithmic metrics.
