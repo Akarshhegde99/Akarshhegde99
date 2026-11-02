@@ -5,7 +5,7 @@
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Associate+Consultant+@+Oracle+OFSS;Spring+Boot+%26+Microservices+Architect;Full+Stack+Developer+(Java+%2B+React);AI+%26+Scalable+Backend+Solutions;Building+High-Performance+Banking+Systems" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Associate+Consultant+@+Oracle+OFSS;Spring+Boot+%26+Microservices+Architect;AI+%26+Scalable+Backend+Solutions;" alt="Typing Animation" />
 </p>
 
 <p align="center">
